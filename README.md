@@ -1,4 +1,5 @@
- A Importância da Zona Rural
+## A Importância da Zona Rural
+
 Projeto: Agrinho 2025 - Festejando a Conexão Campo e Cidade
 Este projeto é uma **página web informativa e interativa** que celebra o tema do **Agrinho 2025**, focando na **essencial conexão entre o campo e a cidade**. Com um design moderno e uma abordagem visual clara, o site explora como a inovação rural e o desenvolvimento urbano se complementam para construir um futuro mais sustentável e próspero.
 
