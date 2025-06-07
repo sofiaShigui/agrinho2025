@@ -12,7 +12,6 @@ Este projeto é uma **página web informativa e interativa** que celebra o tema 
 * **CSS**: Responsável por toda a estilização visual, garantindo um design atraente, animado e responsivo.
 * **Bootstrap**: Framework CSS utilizado para a estrutura responsiva da navegação (`navbar`) e dos cards, agilizando o desenvolvimento e a adaptabilidade.
 * **Bootstrap Icons**: Biblioteca de ícones que enriquecem visualmente as seções e blocos de informação.
-* **JavaScript**: Adiciona interatividade, como a funcionalidade do menu responsivo e a recarga da página ao enviar um comentário.
 
 **Arquivos:**
 
@@ -48,13 +47,6 @@ Este projeto é uma **página web informativa e interativa** que celebra o tema 
 
 * **Rodapé (Footer):**
     * Contém a mensagem de direitos reservados: "Todos os direitos reservados para Agrinho 2025 - Conectando Campo e Cidade."
-
----
-
-## Como Rodar o Projeto
-
-1.  **Clone ou faça o download** do repositório do projeto.
-2.  **Abra o arquivo `index.html`** em um navegador de sua escolha.
 
 ---
 
